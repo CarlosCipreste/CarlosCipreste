@@ -9,3 +9,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosCipreste&layout=donut&theme=dark"/>
 </div>
 
+<div>
+  Certificado de JAVA Básico (<a href="https://github.com/loiane" target="_blank">Loiane Groner</a>)  
+  <br><a href="https://loiane.training/certificado/Ww2YQ7upFUBql6AIy1py">🗞️Certificado</a>
+</div>
