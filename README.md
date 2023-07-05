@@ -1,6 +1,6 @@
 <h1 align= left>Meu nome é Carlos!✋</h1>
 
-<p><strong>Desenvolvedor Iniciante em JAVA☕</strong></p>
+<p><strong>Desenvolvedor Iniciante</strong></p>
 
 <p>Atualmente Aprendendo <strong>JAVA ☕</strong> e <strong>Spring Boot 🍃</strong></p>
 
@@ -10,6 +10,6 @@
 </div>
 
 <div>
-  Certificado de JAVA Básico (<a href="https://github.com/loiane" target="_blank">Loiane Groner</a>)  
+  Certificado de JAVA Básico (<a href="https://www.w3schools.com">Loiane Groner</a>)  
   <br><a href="https://loiane.training/certificado/Ww2YQ7upFUBql6AIy1py">🗞️Certificado</a>
 </div>
